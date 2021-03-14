@@ -1,2 +1,2 @@
-# LVM-Automation-Using-Python
+# LVM Automation Using Python
 Automate Logical Volume Manager Operations using Python Script 
